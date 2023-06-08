@@ -1,2 +1,2 @@
-﻿Console.WriteLine("Hello, World!");
-Console.WriteLine("Привет мир!");
+﻿//Первая программа на C# - проверяем работоспособность среды разработки.
+Console.WriteLine("Hello, World!");
